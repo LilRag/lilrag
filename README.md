@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋, I'm Anurag!
 
-<!--
-**LilRag/lilrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 **About Me**
+I'm currently a student at PES University studying for a B.Tech degree in Computer Science (Artificial Intelligence & Machine Learning).🚀
 
-Here are some ideas to get you started:
+I'm passionate about harnessing the power of Artificial Intelligence and Machine Learning to solve real-world problems. Alongside my AI pursuits, I dive into Web Development, crafting innovative and user-friendly applications. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I thrive on exploring new technologies, constantly learning and pushing boundaries to stay at the forefront of the ever-evolving tech landscape. Let’s build something amazing together! 💡
+---
+
+### 🔧 **My Tech Stack**
+- **Languages:** [Python, JavaScript, C]
+- **Frameworks & Libraries:** [React, Node.js]
+- **Tools & Platforms:** [Git, VS Code]
+- **Databases:** [MySQL, MongoDB]
+
+---
+
+### 📈 **GitHub Stats**
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+### 🌟 **Top Projects**
+- [**Project 1**](https://github.com/your-username/project1): Short description
+- [**Project 2**](https://github.com/your-username/project2): Short description
+
+---
+
+### 📫 **Let's Connect**
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Portfolio: [Your Portfolio](https://your-portfolio.com)
+- Email: [Your Email](mailto:your-email@example.com)
