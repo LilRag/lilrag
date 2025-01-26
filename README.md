@@ -21,12 +21,6 @@ I thrive on exploring new technologies, constantly learning and pushing boundari
 
 ---
 
-### 🌟 **Top Projects**
-- [**Project 1**](https://github.com/lilrag/project1)
-- [**Project 2**](https://github.com/lilrag/project2)
-
----
-
 ### 📫 **Let's Connect**
 - LinkedIn: https://www.linkedin.com/in/anurag-senapati-991933314/
 - Email: anurags7475@gmail.com
