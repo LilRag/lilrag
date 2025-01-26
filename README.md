@@ -17,17 +17,16 @@ I thrive on exploring new technologies, constantly learning and pushing boundari
 ---
 
 ### 📈 **GitHub Stats**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lilrag&show_icons=true&theme=radical)
 
 ---
 
 ### 🌟 **Top Projects**
-- [**Project 1**](https://github.com/your-username/project1): Short description
-- [**Project 2**](https://github.com/your-username/project2): Short description
+- [**Project 1**](https://github.com/lilrag/project1)
+- [**Project 2**](https://github.com/lilrag/project2)
 
 ---
 
 ### 📫 **Let's Connect**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Portfolio: [Your Portfolio](https://your-portfolio.com)
-- Email: [Your Email](mailto:your-email@example.com)
+- LinkedIn: https://www.linkedin.com/in/anurag-senapati-991933314/
+- Email: anurags7475@gmail.com
