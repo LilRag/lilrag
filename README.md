@@ -17,7 +17,7 @@ I thrive on exploring new technologies, constantly learning and pushing boundari
 ---
 
 ### 📈 **GitHub Stats**
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lilrag&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilrag&show_icons=true&theme=tokyonight)
 
 ---
 
